@@ -1,7 +1,7 @@
 FootSwitch
 ==========
 
-![Board image](https://github.com/Acramonics/FootSwitch/blob/main/images/2D.png?raw=true)
+![Board image](https://github.com/Acramonics/FootSwitch/blob/main/images/2d.png?raw=true)
 
 
 This is a very small board to accommodate a standard 3PDT guitar pedal
