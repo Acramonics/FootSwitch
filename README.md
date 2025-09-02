@@ -27,6 +27,12 @@ active after powering on, then select `J`).
 Molex KK254 style connectors are indicated, but not needed - you can
 simpy solder wires to the holes in the board instead.
 
+KiCad
+-----
+
+To view/edit the KiCad files, you will need my ACRM symbol and
+footprint libraries.
+
 LED
 ---
 
