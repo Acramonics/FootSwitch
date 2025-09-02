@@ -30,6 +30,9 @@ active after powering on, then select `J`).
 Molex KK254 style connectors are indicated, but not needed - you can
 simpy solder wires to the holes in the board instead.
 
+I prefer to mount the footswitch on the opposite side of the board
+from the other components, but you can do whatever works for you!
+
 KiCad
 -----
 
@@ -41,7 +44,7 @@ LED
 
 If using the LED, you also need to add the `LED Res` resistor. The
 value of this depends on the voltage drop of your LED (which will vary
-with colour) and how bright you want it to be. 330K is a good starting
+with colour) and how bright you want it to be. 1K is a good starting
 point for most LEDs.
 
 Battery
