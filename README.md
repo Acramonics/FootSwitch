@@ -1,6 +1,8 @@
 FootSwitch
 ==========
 
+![Board image](https://github.com/Acramonics/FootSwitch/tree/main/images/2D.png)
+
 This is a very small board to accommodate a standard 3PDT guitar pedal
 footswitch and provide all wiring for true bypass:
 
@@ -52,4 +54,5 @@ Schottky diode with at least a 9v rating and sufficient current to
 power your effects board. Something like a 1N5819 or BAT86S will be
 fine.
 
+![Populated Board image](https://github.com/Acramonics/FootSwitch/tree/main/images/3D.png)
 
